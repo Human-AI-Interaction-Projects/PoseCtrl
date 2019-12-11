@@ -5,7 +5,7 @@ Zhao Lei, Yifei Chen
 ![swift-version](https://img.shields.io/badge/swift-4.2-red.svg)
 ![license](https://img.shields.io/badge/license-MIT-black.svg)
 
-PoseCtrl captures the user's body pose, pass it through a convolutional neural network, then outputs the result in the form of a computer command. It is most useful when the user is giving a presentation but do not want to carry a clicker with him the whole time. In those cases, the user can choose to utilize our system, 
+PoseCtrl captures the user's body pose, pass it through a convolutional neural network, then outputs the result in the form of a computer command. It is most useful when the user is giving a presentation but do not want to carry a clicker with him the whole time. In those cases, the user can choose to utilize our system, and control his slides solely by showing a sequence of poses to the camera.
 
 ## System Block Diagram
 
